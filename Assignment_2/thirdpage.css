@@ -1,0 +1,252 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.create-an-account {
+  position: absolute;
+  top: 842px;
+  left: 574px;
+  font-size: 36px;
+  color: rgba(2, 2, 2, 0.79);
+  display: inline-block;
+  width: 340px;
+  height: 42px;
+}
+.loginpage1-child,
+.loginpage1-item {
+  position: absolute;
+  border-radius: var(--br-8xs);
+}
+.loginpage1-child {
+  top: 723px;
+  left: 456px;
+  background-color: #279ef3;
+  box-shadow: -8px -8px 16px rgba(255, 255, 255, 0.56),
+    8px 8px 16px rgba(0, 0, 0, 0.25);
+  width: 474px;
+  height: 88px;
+}
+.loginpage1-item {
+  top: 824px;
+  left: 433px;
+  background-color: var(--color-white);
+  width: 88px;
+  height: 76px;
+}
+.icons8-google-240-1 {
+  position: absolute;
+  top: 740px;
+  left: 470px;
+  width: 65px;
+  height: 56px;
+  object-fit: cover;
+}
+.sign-in-with {
+  position: absolute;
+  top: 745px;
+  left: 554px;
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 324px;
+  height: 42px;
+  font-size: 30px;
+}
+.loginpage1-inner {
+  position: absolute;
+  top: 722px;
+  left: 959px;
+  border-radius: var(--br-8xs);
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    #91bdff,
+    rgba(237, 237, 237, 0.6)
+  );
+  box-shadow: 10px 10px 20px rgba(122, 143, 184, 0.72), -10px -10px 20px #fff;
+  width: 98px;
+  height: 88px;
+}
+.ellipse-div {
+  position: absolute;
+  top: 730px;
+  left: 966px;
+  border-radius: 50%;
+  background-color: rgba(0, 97, 203, 0.8);
+  width: 82px;
+  height: 74px;
+}
+.f-icon,
+.rectangle-div {
+  border-radius: var(--br-8xs);
+}
+.f-icon {
+  position: absolute;
+  height: 8.39%;
+  width: 20.22%;
+  top: 77%;
+  right: 39.53%;
+  bottom: 6.67%;
+  left: 57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-div {
+  top: 597px;
+  left: 456px;
+  background-color: rgba(255, 20, 20, 0.85);
+  box-shadow: -8px -8px 16px rgba(255, 255, 255, 0.6),
+    8px 8px 16px rgba(0, 0, 0, 0.25);
+  width: 598px;
+  height: 88px;
+}
+.login,
+.or,
+.rectangle-div {
+  position: absolute;
+}
+.login {
+  top: 613px;
+  left: 685px;
+  font-size: 48px;
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 131px;
+  height: 56px;
+}
+.or {
+  top: 695px;
+  left: 695px;
+  display: inline-block;
+  width: 56px;
+  height: 36px;
+  font-size: 20px;
+}
+.loginpage1-child1, .loginpage1-child2 {
+  position: absolute;
+  top: 435px;
+  left: 485px;
+  border-radius: var(--br-8xs);
+  background-color:#d9d9d9;
+  box-shadow: -8px -8px 16px rgba(255, 255, 255, 0.25), 8px 8px 16px rgba(154, 154, 154, 0.25);
+  width: 510px;
+  height: 72px;
+  padding-top: 5px;
+}
+.loginpage1-child2 {
+  top: 315px;
+}
+.email, .password {
+  position: absolute;
+  top: 291px;
+  left: 470px;
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 87px;
+  height: 38px;
+  font-size: 20px;
+}
+.password  {
+  top: 411px;
+  width: 149px;
+  left: 452px;
+  display: block;
+  position: relative;
+  font-size: 20px;
+}
+
+.examplegmailcom, .forgot-password, .password1 {
+  position: absolute;
+  top: 324px;
+  left: 494px;
+  display: inline-block;
+  width: 488px;
+  height: 56px;
+  background: transparent;
+  border: none;
+}
+.forgot-password, .password1 {
+  top: 446px;
+  width: 489px;
+  height: 54px;
+  left: 492px;
+  background: transparent;
+  border: none;
+}
+.forgot-password {
+  top: 528px;
+  left: 597px;
+  color: var(--color-gray-100);
+  width: 308px;
+  height: 37px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: -3px;
+  left: 0;
+  width: 100%;
+  height: 361px;
+}
+.loginpage1 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #ae8371, rgba(217, 24, 24, 0.16));
+  height: 951px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-lexend);
+}
+.btn1{
+  display: block;
+  position: absolute;
+  top: 17px;
+  background: transparent;
+  border: none;
+  left: 17px;
+}
+.btn1 a{
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
+.password1,.examplegmailcom{
+  font-size: 25px;
+}
+
+.next {
+  position: absolute;
+  top: 819px;
+  left: 587px;
+  font-size: 68px;
+  color: black;
+  background: transparent;
+  border: none;
+}
+.next a{
+  text-decoration: none;
+  color: white;
+  font-size: 40px;
+}
+.image-3-icon {
+  position: absolute;
+  height: 23.13%;
+  width: 14.21%;
+  top: 71.73%;
+  right: 31.44%;
+  bottom: 44.14%;
+  left: 81.35%;
+  border-radius: 60px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: unset;
+}
+.bg{
+  background: transparent;
+}
+

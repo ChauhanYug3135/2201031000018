@@ -1,0 +1,230 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.login {
+    color: #ff3737;
+  }
+  .already-have-an-container {
+    position: absolute;
+    top: 1049px;
+    left: 611px;
+    color: #000;
+  }
+  .namedetail3-child {
+    position: absolute;
+    top: 658px;
+    left: 447px;
+    border-radius: var(--br-8xs);
+    background-color: rgba(255, 20, 20, 0.85);
+    box-shadow: -8px -8px 16px rgba(255, 255, 255, 0.6),
+      8px 8px 16px rgba(0, 0, 0, 0.25);
+    width: 621px;
+    height: 55px;
+  }
+  .continue {
+    position: absolute;
+    top: 665px;
+    left: 679px;
+    display: inline-block;
+    width: 144px;
+    height: 35px;
+    font-size: 30px;
+    color: white;
+    background: transparent;
+    border: none;
+    
+}
+.continue a {
+  text-decoration: none;
+  color: white;
+  font-size: 40px;
+}
+  .namedetail3-item {
+    position: absolute;
+    top: 500px;
+    left: 445px;
+    border-radius: var(--br-8xs);
+    background-color: #d9d9d9;
+    box-shadow: -8px -8px 16px rgba(255, 255, 255, 0.25), 8px 8px 16px rgba(154, 154, 154, 0.25);
+    width: 621px;
+    height: 49px;
+}
+  
+  .password {
+    position: absolute;
+    top: 505px;
+    left: 452px;
+    font-size: var(--font-size-5xl);
+    color: var(--color-darkslategray-100);
+    display: inline-block;
+    width: 603px;
+    height: 37px;
+    background: transparent;
+    border: none;
+
+  }
+  .namedetail3-child1, .namedetail3-inner, .rectangle-div {
+    position: absolute;
+    top: 434px;
+    left: 446px;
+    border-radius: var(--br-8xs);
+    background-color: #d9d9d9;
+    box-shadow: -8px -8px 16px rgba(255, 255, 255, 0.25), 8px 8px 16px rgba(154, 154, 154, 0.25);
+    width: 621px;
+    height: 49px;
+}
+  .namedetail3-child1,
+  .rectangle-div {
+    top: 587px;
+    height: 49px;
+  }
+  .namedetail3-child1 {
+    top: 369px;
+    background-color: #d9d9d9;
+  }
+  .confirm-password,
+  .password1 {
+    position: absolute;
+    display: inline-block;
+  }
+  .password1 {
+    top: 592px;
+    left: 452px;
+    font-size: var(--font-size-5xl);
+    color: var(--color-darkslategray-100);
+    width: 603px;
+    height: 37px;
+    background: transparent;
+    border: none;
+  }
+  .confirm-password {
+    top: 555px;
+    left: 392px;
+    color: rgba(0, 0, 0, 0.65);
+    width: 293px;
+    height: 33px;
+    font-size: 25px;
+}
+  .examplegmailcom {
+    top: 440px;
+    left: 452px;
+    font-size: var(--font-size-5xl);
+    color: var(--color-darkslategray-100);
+    width: 603px;
+    height: 37px;
+    background: transparent;
+    border:none
+  }
+  .egvikram-varma,
+  .examplegmailcom,
+  .full-name {
+    position: absolute;
+    display: inline-block;
+  }
+  .egvikram-varma {
+    top: 373px;
+    left: 452px;
+    font-size: var(--font-size-5xl);
+    color: black;
+    width: 603px;
+    height: 37px;
+    background: transparent;
+    border: none;
+}
+  .full-name {
+    top: 335px;
+    left: 433px;
+    color: rgba(68, 68, 68, 0.99);
+    width: 147px;
+    height: 33px;
+    font-size: 26px;
+  }
+  .rectangle-icon {
+    position: absolute;
+    top: -3px;
+    left: 0px;
+    width: 100%;
+    height: 361px;
+  }
+  .create-account,
+  .signup-for-a {
+    margin-block-start: 0;
+    margin-block-end: 8px;
+    font-size: 30px;
+    color: white;
+  }
+  .create-account {
+    font-size: 48px;
+  }
+  .enter-your-account {
+    margin: 0;
+    font-size: 30px;
+    color: white;
+  }
+  .signup-for-a-container {
+    position: absolute;
+    top: 34px;
+    left: 126px;
+    display: inline-block;
+    width: 509px;
+    height: 158px;
+  }
+  .namedetail3-child2 {
+    position: absolute;
+    top: 267px;
+    left: 118px;
+    border-radius: 8px;
+    background-color: #333;
+    width: 184px;
+    height: 65px;
+  }
+  bg-2-icon, .step-12 {
+    position: absolute;
+    top: 282px;
+    left: 162px;
+    font-size: 30px;
+    color: white;
+}
+  .namedetail3 {
+    width: 100%;
+    position: relative;
+    background: linear-gradient(180deg, #ae8371, rgba(217, 24, 24, 0.16));
+    height: 729px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-13xl);
+    color: var(--color-white);
+    font-family: var(--font-lexend);
+  }
+  
+  .image-3-icon {
+    position: absolute;
+    height: 27.13%;
+    width: 12.21%;
+    top: 68.73%;
+    right: 31.44%;
+    bottom: 44.14%;
+    left: 85.35%;
+    border-radius: 60px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: unset;
+}
+  .bg{
+    background: transparent;
+  }
+  .btn1{
+    display: block;
+    position: absolute;
+    top: 17px;
+    background: transparent;
+    border: none;
+    left: 17px;
+  }
+  .btn1 a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+  }

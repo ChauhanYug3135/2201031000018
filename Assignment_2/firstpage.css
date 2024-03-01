@@ -1,0 +1,67 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.image-3-icon {
+  position: absolute;
+  height: 37.13%;
+  width: 17.21%;
+  top: 13.73%;
+  right: 39.44%;
+  bottom: 44.14%;
+  left: 42.35%;
+  border-radius: 60px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.blood-donate,
+.i-n {
+  margin: 0;
+}
+.i-n {
+  white-space: pre-wrap;
+  color: white;
+}
+.blood-donate-i-container1 {
+  width: 100%;
+}
+.blood-donate-i-container {
+  position: absolute;
+  height: 18.8%;
+  width: 31.08%;
+  top: 61.52%;
+  left: 34.44%;
+  display: flex;
+  align-items: center;
+}
+.logo-frame {
+  width: 100%;
+  position: relative;
+  background-color: #fb0f0f;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 729px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 70px;
+  color: var(--color-white);
+  font-family: var(--font-lusitana);
+}
+.bg{
+  background: transparent;
+}
+button{
+  padding: 10px 15px;
+  border-radius: 10%;
+}
+.blood-donate{
+  color: white;
+}
+.btn{
+  text-decoration: none;
+  font-size: 20px;
+  background-color: #D9D9D9;
+  
+}
